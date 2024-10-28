@@ -4,7 +4,8 @@ import React from 'react'
 export default function ServicesWrappers(props) {
   return (
     <div
-      className='w-full'
+      onClick={props.onClick}
+      className='w-full cursor-pointer transition-all duration-300'
       style={{
         borderRadius: 45,
         padding: 50,
