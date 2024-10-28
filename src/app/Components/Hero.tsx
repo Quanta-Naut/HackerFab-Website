@@ -23,7 +23,7 @@ export default function Hero() {
             fontSize: 20
           }}
         >
-          Book a consultation
+          Become a Campus Ambassador
         </button>
       </div>
       <div className='pt-4 lg:pt-0 lg:h-3/4 w-full h-full lg:flex items-end justify-center'>
@@ -48,7 +48,7 @@ export default function Hero() {
             fontSize: 20,
           }}
         >
-          Book a consultation
+          Become a Campus Ambassador
         </button>
       </div>
     </div>
